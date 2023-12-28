@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641128270216",
+    "project_id": "agrecrew",
+    "storage_bucket": "agrecrew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641128270216:android:88f68fcb2118a32cbf123d",
+        "android_client_info": {
+          "package_name": "com.example.agricrew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsCFH63zekUxUgY_sNQJXJVembUJ-H2uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
