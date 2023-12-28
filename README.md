@@ -1,6 +1,6 @@
 # agricrew
 
-A new Flutter project.
+A new Flutter project for surveys diffrent questions for farmers
 
 ## Getting Started
 
